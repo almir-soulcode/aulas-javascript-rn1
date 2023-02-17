@@ -101,3 +101,4 @@ if (num === 0) {
   // neste caso o if é desnecessário
   console.log("O número é ímpar");
 }
+
